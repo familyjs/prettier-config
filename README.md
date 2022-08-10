@@ -1,6 +1,6 @@
 # @navify/prettier-config
 
-Shared Prettier config used in Navify and Jigra projects.
+Shared Prettier config used in Navify, Jigra, and Rindo projects.
 
 ## Usage
 
