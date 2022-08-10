@@ -1,0 +1,20 @@
+{
+  "name": "@navify/prettier-config",
+  "version": "1.0.2",
+  "description": "Prettier config for Navify and Capacitor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navify/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "Navify Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navify/prettier-config/issues"
+  },
+  "homepage": "https://github.com/navify/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}
