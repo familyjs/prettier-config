@@ -1,19 +1,19 @@
 {
-  "name": "@navify/prettier-config",
+  "name": "@familyjs/prettier-config",
   "version": "2.0.0",
-  "description": "Prettier config for Navify and Capacitor",
+  "description": "Prettier config for Family and Jigra",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navify/prettier-config.git"
+    "url": "git+https://github.com/familyjs/prettier-config.git"
   },
   "keywords": [],
-  "author": "Navify Team",
+  "author": "Family Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/navify/prettier-config/issues"
+    "url": "https://github.com/familyjs/prettier-config/issues"
   },
-  "homepage": "https://github.com/navify/prettier-config#readme",
+  "homepage": "https://github.com/familyjs/prettier-config#readme",
   "peerDependencies": {
     "prettier": "^2.0.0"
   }

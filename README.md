@@ -1,6 +1,6 @@
-# @navify/prettier-config
+# @familyjs/prettier-config
 
-Shared Prettier config used in Navify, Jigra, and Rindo projects.
+Shared Prettier config used in Family, Jigra, and Rindo projects.
 
 ## Usage
 
@@ -10,11 +10,11 @@ Usage is based on [Sharing configurations](https://prettier.io/docs/en/configura
 1. Install the config.
 
     ```
-    npm install -D @navify/prettier-config
+    npm install -D @familyjs/prettier-config
     ```
 
 1. Add the following to `package.json`:
 
     ```
-    "prettier": "@navify/prettier-config",
+    "prettier": "@familyjs/prettier-config",
     ```
