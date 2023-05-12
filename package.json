@@ -2,18 +2,18 @@
   "name": "@familyjs/prettier-config",
   "version": "2.1.1",
   "description": "Prettier config for Family and Jigra",
-  "main": "index.js",
+  "keywords": [],
+  "homepage": "https://github.com/familyjs/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/familyjs/prettier-config/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/familyjs/prettier-config.git"
   },
-  "keywords": [],
-  "author": "Family Team",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/familyjs/prettier-config/issues"
-  },
-  "homepage": "https://github.com/familyjs/prettier-config#readme",
+  "author": "Family Team",
+  "main": "index.js",
   "peerDependencies": {
     "prettier": "^2.4.0"
   }
