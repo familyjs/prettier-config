@@ -4,26 +4,26 @@ module.exports = {
   useTabs: false,
   semi: true,
   singleQuote: true, // default: false
-  quoteProps: 'as-needed',
+  quoteProps: "as-needed",
   jsxSingleQuote: false,
-  trailingComma: 'es5',
+  trailingComma: "all",
   bracketSpacing: true,
   bracketSameLine: false,
-  arrowParens: 'always',
+  arrowParens: "always",
   overrides: [
     {
-      files: ['*.java'],
+      files: ["*.java"],
       options: {
         printWidth: 140,
         tabWidth: 4,
         useTabs: false,
-        trailingComma: 'none',
+        trailingComma: "none",
       },
     },
     {
-      files: '*.md',
+      files: "*.md",
       options: {
-        parser: 'mdx',
+        parser: "mdx",
       },
     },
   ],
